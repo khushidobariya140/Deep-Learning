@@ -103,8 +103,5 @@ All plots are saved in `/plots` when the notebook is executed. Key figures inclu
 ## Conclusion
 The notebook provides a controlled comparison of common ANN design choices for imbalanced tabular binary classification. The best configuration must be selected from the observed validation metrics and reported once on the held-out test set. The Adult dataset is historical and contains sensitive demographic attributes; this educational model must not be used for real employment, credit or eligibility decisions.
 
-## Video
-**Video link:** Add your unlisted YouTube or Google Drive link here after recording the required 5–10 minute face + screen explanation.
-
 ## GitHub Submission Notes
 Include `DL_PR2.ipynb`, exported `DL_PR2.html`, `README.md`, `requirements.txt`, and the generated `plots/` directory. Use meaningful commits for data cleaning, activation/initializer experiments, loss/BatchNorm experiments and optimizer/final evaluation.
